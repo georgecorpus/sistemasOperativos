@@ -1,0 +1,39 @@
+h2{
+  color: #38609E;
+  text-align: left;
+  margin-top: 5rem;
+  padding-top: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+h3{
+  color: #7293C6;
+}
+
+p{
+  color: #122928;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+li{
+  color: #122928;
+}
+
+.preguntas-1{
+  margin: 1rem 1rem;
+  padding: 2.8rem 2.8rem;
+}
+.kiki{
+    text-align: center;
+    color: #35ADAB;
+    margin-top: 5rem;
+}
+.refe{
+  text-align: center;
+  margin-top: 3rem;
+}
+.referencias{
+  padding: 4rem 4rem;
+}
